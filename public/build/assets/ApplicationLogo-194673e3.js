@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{o as c,f as e}from"./app-64491542.js";const r={},t={src:"logoEmpresa.png",alt:"nop",srcset:""};function s(n,_){return c(),e("img",t)}const i=o(r,[["render",s]]);export{i as A};
